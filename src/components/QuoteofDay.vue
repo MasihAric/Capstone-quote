@@ -1,6 +1,6 @@
 <template>
   <div class="quoteofday">
-    <h1>Quote of the Day!</h1>
+    <h1>Quote of the Day!!</h1>
     <div class="quoteContainer" v-if="posts && posts.quote">
       <h2>{{ posts.quote.body }}</h2>
       <h3>{{posts.quote.author}}</h3>
